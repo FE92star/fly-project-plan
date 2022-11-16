@@ -9,8 +9,11 @@
 
 ### 构思中🤔...
 
-1. [auto-remove-pkg](./%E5%B7%A5%E5%85%B7/auto-remove-pkg.md)
-2. [sync-fork-timer](./%E5%B7%A5%E5%85%B7/sync-fork-timer.md)
+1. [r-di](./%E5%B7%A5%E5%85%B7/r-di.md)
+2. [markdown-resume](./%E5%B7%A5%E5%85%B7/markdown-resume.md)
+3. [vue3-customRender-pixi](./%E5%B7%A5%E5%85%B7/vue3-customRender-pixi.md)
+4. [password-manage](./%E5%BA%94%E7%94%A8/password-manage.md)
+5. [illegal-domain-interceptor](./%E5%B7%A5%E5%85%B7/illegal-domain-interceptor.md)
 
 ### 灵感记录📝...
 
